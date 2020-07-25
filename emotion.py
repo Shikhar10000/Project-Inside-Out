@@ -35,11 +35,11 @@ b = listx[0][1]
 print(b)
 
 mood = b
-client_id = 'e78a9e994e544c60a551186a93440214'
-client_secret = '946f2ab97326448f9b5be8194806c849'
+client_id = ''
+client_secret = ''
 redirect_uri = 'https://localhost:8008'
 scope = 'user-library-read user-top-read playlist-modify-public user-follow-read'
-username='4svyvf1988xwob4idzpyhy3q5'
+username=''
 
 # with SpotifyLocal() as s:
 	# pass
