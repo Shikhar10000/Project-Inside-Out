@@ -5,7 +5,6 @@ So just like our [previous open source project](https://github.com/kaiwalya4850/
 The research paper on this would be published soon, and we would add the link for the same for model architecture references!
 
 ## Usage
-
 The trained model on 7 different emotions, with an accuracy of 74% is under models folder. The harcasdade file is for detection of front face, so first face is detected then the mood is detected. The model is named
 
 ```bash
